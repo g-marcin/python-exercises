@@ -12,3 +12,7 @@ delegate
 Super
 
 method
+
+static attribute
+
+instance attribute
