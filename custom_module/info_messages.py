@@ -3,8 +3,7 @@ info_messages = {
       'instanceAttributeMsg': 'this is an instance attribute from Super class',
       'methodMsg': 'this is a method from Super class',
       'exampleNumberValue': 1,
-      'exampleNullValue': None,
-     
+      'exampleNullValue': None,  
    }
 
 def get_info_messages(class_name):
@@ -13,8 +12,7 @@ def get_info_messages(class_name):
       'instanceAttributeMsg': f'this is an instance attribute from {class_name} class',
       'methodMsg': f'this is a method from {class_name} class',
       'exampleNumberValue': 1,
-      'exampleNullValue': None,
-     
+      'exampleNullValue': None,     
    }
     
     return info_messages
